@@ -1,4 +1,4 @@
-# mochila-de-viagem
+# Mochila de Viagem
 Desenvolvido em JavaScript Vanilla, o Mochila de Viagem é um to-do list que te ajudará a organizar o que levar numa viagem e a não esquecer nada na hora fazer sua mala.
 
 ## Ver projeto ao vivo
